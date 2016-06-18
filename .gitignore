@@ -87,3 +87,32 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# IntelliJ / PyCharm IDE
+.idea/
+
+#===============================================================================
+# My entries:
+#===============================================================================
+.DS_Store
+*.pyc
+__pycache__
+dist
+build
+docs/build
+docs/source/reference/services
+tests/cover
+tests/.coverage
+# *.egg-info
+
+# Test state / virtualenvs
+# .tox
+# .coverage
+# coverage.xml
+# nosetests.xml
+
+# Common virtualenv names
+VENV
+
+# IntelliJ / PyCharm IDE
+.idea/
