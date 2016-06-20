@@ -10,8 +10,8 @@ import boto3
 '''
 Define your AWS credentials:
 '''
-AWS_ACCESS_KEY_ID = 'AKIAJM7BQ4WBJJSVU2JQ'
-AWS_SECRET_ACCESS_KEY = 'Fq9GmwWEsvbcdHuh4McD+ZUmfowPKrnzFmhczV2U'
+AWS_ACCESS_KEY_ID = '<YOUR ACCESS KEY ID>'
+AWS_SECRET_ACCESS_KEY = '<YOUR SECRET ACCESS KEY>'
 
 '''
 Connection to AWS.
