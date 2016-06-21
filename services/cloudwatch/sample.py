@@ -2,7 +2,6 @@
 ===================================
 Boto 3 - CloudWatch Service Example
 ===================================
-
 This application implements the CloudWatch service that lets you gets
 information from Amazon Cloud Watch. See the README for more details.
 '''
