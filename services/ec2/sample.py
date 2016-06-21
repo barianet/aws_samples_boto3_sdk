@@ -2,6 +2,7 @@
 ====================
 Boto 3 - RDS Example
 ====================
+
 This application implements the RDS service that lets you gets
 information from Amazon RDS. See the README for more details.
 '''
